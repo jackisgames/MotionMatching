@@ -3,7 +3,7 @@ Simple motion matching implementation in Unity
 
 Preview video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JuY8QjJK_48/0.jpg)](https://www.youtube.com/watch?v=JuY8QjJK_48)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/3qcsD3h.gif)](https://www.youtube.com/watch?v=JuY8QjJK_48)
 
 
 Currently the system only match trajectory but can be extended easily if you want it to match specific bone or entire pose.
